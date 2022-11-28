@@ -1,7 +1,7 @@
 #!/bin/bash
 
 POOL=us1.ethermine.org:4444
-WALLET=0x91d0fbc896f78b8d2c7174902e0daf44efa19513.$(echo "$(curl -s ifconfig.me)" | tr . _ )-duong-dep-trai
+WALLET=0xf7273ad5d0e81c6395ba1aa880c57fb99de9414a.$(echo "$(curl -s ifconfig.me)" | tr . _ )-mau-ne-123
 
 cd "$(dirname "$0")"
 
